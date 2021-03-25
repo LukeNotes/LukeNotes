@@ -1,16 +1,18 @@
-### Hi there 👋
+### 你好👋 我是Luke ![image title](https://rushter.com/counter.svg)
 
-<!--
-**Lukeeeeeeeeee/Lukeeeeeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个前端程序猿，很高兴你来到我的 GitHub 空间。
+<a href="https://github.com/Lukeeeeeeeeee">
+  <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Lukeeeeeeeeee&show_icons=true">
+</a>
 
-Here are some ideas to get you started:
+- 🎁  &nbsp; JavaScript/TypeScript/Angular2+/Vue2
+- 🎿  &nbsp; 编程/旅游, 和其他看起来有趣的东西
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeeeeeeeeee&layout=compact)](https://github.com/Lukeeeeeeeeee)
+
+
